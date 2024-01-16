@@ -1,6 +1,6 @@
-<img align="center" alt="banner" width="100%" src="https://camo.githubusercontent.com/376a61205935840e3a0cd659b40684d7cded681d8778cffd87bebe617dac196e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33352f36302f61353335363063383038383930306532363638383066373739646163636564372e676966">
 <h1 align="center">Hi 👋, I'm Vivek Patel</h1>
 <h3 align="center">Aspiring Full-stack Web Developer at Masai School</h3>
+<img align="center" alt="banner" width="100%" src="https://camo.githubusercontent.com/376a61205935840e3a0cd659b40684d7cded681d8778cffd87bebe617dac196e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61352f33352f36302f61353335363063383038383930306532363638383066373739646163636564372e676966">
 <hr>
 <h3>About me...</h3>
 <p>A highly skilled and solution-oriented full-stack web
